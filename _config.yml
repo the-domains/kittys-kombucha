@@ -2,6 +2,7 @@ name: "Kitty's Kombucha"
 favicon: null
 layout_spectrum: 0.6324734869413078
 typography_spectrum: 0.02470588660798967
+title: "Kitty's Kombucha"
 cta:
   domain: null
   bucket: null
